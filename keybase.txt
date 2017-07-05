@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/cfbao
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chenfengbao.com
+  * I am cfbao (https://keybase.io/cfbao) on keybase.
+  * I have a public key with fingerprint 3306 8758 375C A8BA 46AF  B567 2A70 E3A0 00BC 29A3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120458ef14e0f63ca83d96daf4c9b538b36f55945ce6177846fa81c05297003b7020a",
+      "fingerprint": "33068758375ca8ba46afb5672a70e3a000bc29a3",
+      "host": "keybase.io",
+      "key_id": "2a70e3a000bc29a3",
+      "kid": "010166a8c5e23ffbbc404b684e5cf99cd6be3a88a36448b25710b0c006a09edb8ef90a",
+      "uid": "dfc1f36eec2712c0ef1df22f66da1919",
+      "username": "cfbao"
+    },
+    "merkle_root": {
+      "ctime": 1573937573,
+      "hash_meta": "8cf6715ef6b06db9adf39637ba069657f5a30d2b8bf85b1939bb57f8a2939b7c",
+      "seqno": 9864714
+    },
+    "revoke": {
+      "sig_ids": [
+        "53009acf18e54e854ea872e3e3de1efeb1a4e6a292133e50098eb538a191e27d0f"
+      ]
+    },
+    "service": {
+      "hostname": "chenfengbao.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1573937574,
+  "expire_in": 157680000,
+  "prev": "ed54651064e4b75200f590161c1ea02a5a51009a5c5f2dc7cebe70adc67c0032",
+  "seqno": 64,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMP9AnicbVNrbBVFFL4FSrGWFgKa8BLYErGkwOzOzuzujbwELA+FUiMgUG5nZmfu
+XW9793rvbZWUagkaglRQKg1Q5FEe4ZUoTaGgULGUl0BBCVGoyKPGH5aIgUYCCHW2
+kZgYf2x295zvfOc735lp6tnVl5o0Itq62Xc4a2vSmcaSYl/+BbKjVKGuvUjxlyph
+3vnihTaPJwJhx1b8ClA1oCOTC1XnQGDIiAltC9tE6MyiCJoUYoGQpSPGsWoYpo4F
+MVUGkGYZAEBqAA0QJVsRTiTIY9GYE0lIWggBNg1kQgNJRkp0TARF2NCIATgkAADK
+NItAWRhy416FFEdJnI9yXBmTP4FOef+Df6IbqBgTkyGuQSEoZTrQKTZ1jpiwLGZj
+KutMk0Cs6ybVkKECChgAmACL21RObHXqLu6kswVTBcScM81QNQakH7bQNIGlE6ql
+Wh4wzmMRUsQlmglKXKUsWynisXAhD8RcN+E5yxKOl1eRAS05uQHldCQeChTxBJFl
+JhPYUBEXmAJsU4vYAloYGpQAbGFkCEQgsDVqUmEiqlrQolRGTaJ5nwaTIuL8rYir
++C0T64aqSwUxXuKGudc87gSlZ3HFP19BEACLMKGaHOnclA8xDY1DDm2ucsGpSnSO
+Ja2mQsiRBJvc27U3KtcMGwglv8xrFitxWCe5t6Qnw4d4RPBIUFowirlFUlQ05iZc
+5hbKZCiRiMb9njWJRVEP/TangX94AtSJ2PKUyIoSHos7bkRaJZH/dU3PVvg7USfG
+A06kM4xNuX/g9eElkpLbSMdIBVjnOjWQBoBAljwNKlM5ARpBRCbl/IghodnMYJxy
+AxCbYUPuH2r/2ohlqwQJSk5pXoQkimNcKWv8ZkE3X1Kqr3tyF+/6+FKf6vXkUoWT
+MzrmL2ipXXK1YFr7qWlzVn7cNfSR+7LSa8ZJOqm6W6PT/NO5quv9Z+cNbJvcnjph
+2Us1rSPvrDS2fzE6dOFa9crVDzLfOJCeMbj93u2C+gKz34ypjbfWZ54ZvX1Xfcsw
+te7on93FIeXW9NPtK0TNtJ+VJJEbLvcP/uzEkH73hvgOpWwZlXbzYFmPI12nTnm8
+4mCXgsvlH2ytPRUrXFfz4rHkTy7sKa9q+WHrSTZ37Vfvjvu98nrO8YfzLjozxryJ
+13w+de8RRe/SfGNtQ85gP1VT5rQ9LjyxdE1z2489D9yoSD8FVl98OLSS1k4uLAU1
+C3fWfDksHrYH7LjyYd3N0RM2AGdtVkWwsk9OPzyw5K77ivpe/rNbwlmw9vk1sY1t
+Q4sXHs++dnjsSOf25CW1mVVX8jY2bdg1+2ZWn4z04c8EI+VN45xB1X8ln4d9d2T1
+yF3Rt3/b0gz7uelVZ5/ubdy1WvWJIXpuRObY4NHfzj6aeMnf4qQvn+Ok7hlzIsV3
+5tLcdQNycl+bNXQE6ci/P2X8H/j9pgN76vKal3cDFa3V9eFfvsufdD11d8MLl09n
+vr5/ZlXj7k+PfS8eNWyrTWzypc0UmdFNV+tTVk361d5i7a2LV6blbU5papjbsKki
+bXzyt4+OGquS9t1fPGjgmMXOA//pXTu3gd7793W0Vt8ePqt3x9fn5x0sbc/NWL9s
+cY87fQ+9ytRLh/8Gz3j53Q==
+=vdbh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cfbao
+
+==================================================================
